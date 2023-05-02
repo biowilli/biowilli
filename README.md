@@ -1,13 +1,11 @@
 Hi there 👋🌞
 
-- 🍉 I’m Monz aka biowilli 🍉
+- 🍉 I’m biowilli 🍉
 
 - 🏢 I work at a small company called Bits
 - 📐 I’m studying Digital Innovation (https://www.fhv.at/) in Austria
-- 🌏 I’m going to study in South Korea in 2022
 
-- 👀 I’m interested in coding and filming
-- 🌱 I’m currently learning .net Maui, React Native, ...
+- 👀 I’m interested in coding and programming
 
 - 📫 U can reach me mr.monz.philipp@gmail.com
 
