@@ -2,8 +2,8 @@ Hi there 👋🌞
 
 - 🍉 I’m biowilli 🍉
 
-- 🏢 I work at a small company called Bits
-- 📐 I’m studying Digital Innovation (https://www.fhv.at/) in Austria
+- 🏢 I work for fairkom
+- 📐 I studied Digital Innovation (https://www.fhv.at/) in Austria
 
 - 👀 I’m interested in coding and programming
 
