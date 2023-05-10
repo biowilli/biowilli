@@ -8,9 +8,7 @@ Hi there 👋🌞
 - 👀 I’m interested in coding and programming
 
 - 📫 U can reach me: 
-- mail: mr.monz.philipp@gmail.com
-- mastodon: [@philippmonz@fairmove.net](https://fairmove.net/@philippmonz)
-- linkedIn: [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
+mail: mr.monz.philipp@gmail.com, mastodon: [@philippmonz@fairmove.net](https://fairmove.net/@philippmonz), linkedIn: [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
 
 <!---
 biowilli/biowilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
