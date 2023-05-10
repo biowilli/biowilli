@@ -1,6 +1,6 @@
 Hi there 👋🌞
 
-- 🍉 I’m Philipp Alexander Monz aka biowilli 🍉
+- 🍉 I’m Philipp Monz aka biowilli 🍉
 - 😄 Pronouns: he/him/his
 - 💞️ Open Source
 - 🏢 I am working for fairkom (https://www.fairkom.eu/)
