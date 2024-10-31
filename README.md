@@ -10,7 +10,8 @@ I hold a Bachelor of Science degree in Digital Innovation. Before pursuing my de
 At fairkom, I work as a software developer on various projects. These included SchulchatRLP for the "Pädagogisches Landesinstitut Rheinland-Pfalz", implementing a video-on-demand platforms using PeerTube for the community media "FS1", and contributed to the "Termino" project for the "Bundesministerium für Finanzen". Additionally, I am managing the deployment of several services in K8s, such as Keycloak, PeerTube, Rocket.Chat, Fluffychat, Element, and Matomo, among others.
 
 - 📫 U can reach me: 
-- mail: philipp@monztera.at 
+- mail: philipp@monztera.at
+- matrix: monz@fairchat.eu
 - mastodon: [@philippmonz@fairmove.net](https://fairmove.net/@philippmonz), 
 - linkedIn: [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
 
