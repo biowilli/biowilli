@@ -1,29 +1,23 @@
-Hi there 🌞 I 💞️ Open Source and I am currently in Berlin.
+### Hi, I'm Philipp 👋
 
-- 👀 https://www.monz.online/
-- 📐 I studied Digital Innovation (https://www.fhv.at/)
-- 🏢 I am working for fairkom (https://www.fairkom.eu/)
+Software developer at [fairkom](https://www.fairkom.eu/) in Berlin. I build and run open source communication infrastructure: Matrix, Keycloak, PeerTube, Rocket.Chat on Kubernetes.
 
-I hold a Bachelor of Science degree in Digital Innovation. Before I attended a technical secondary school with a focus on business informatics. Throughout my academic journey, I've been actively involved in projects developing digital business solutions using `C#` and `.NET MAUI`.
+**What I work on**
+- [SchulchatRLP](https://schulchat.rlp.de/): Matrix-based school messenger, lots of FluffyChat (Flutter)
+- [Termino](https://www.termino.gv.at/meet/): privacy-friendly scheduling for Austrian public services
+- [DisplayEurope](https://displayeurope.eu/en): European media platform
+- Operating Keycloak, PeerTube, Rocket.Chat, Element and Matomo in K8s
 
-Curretly at fairkom, I work as a software developer on various projects:
+**Stack**
+Java/Spring · TypeScript/React · Dart/Flutter · Kubernetes · Keycloak · Matrix
 
-- `SchulchatRLP`: https://schulchat.rlp.de/ - working a lot with fluffychat
-- `Termino`: https://www.termino.gv.at/meet/
-- `DisplayEurope`: https://displayeurope.eu/en
-- ...
-- Additionally, I am managing the deployment of several services in K8s, such as Keycloak, PeerTube, Rocket.Chat, [matrix] Fluffychat, [matrix] Element, and Matomo, among others.
+**Side projects**
+- [issue-reporter](https://github.com/biowilli/issue-reporter): capture user feedback with screenshots and send it to GitLab, GitHub or any issue tracker
 
-- 📫 U can reach me: 
-- mail: philipp@monz.online
-- matrix: monz@fairchat.eu
-- mastodon: [@philippmonz@fairmove.net](https://fairmove.net/@philippmonz), 
-- linkedIn: [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
+**Background**
+BSc Digital Innovation ([FH Vorarlberg](https://www.fhv.at/)), before that a technical school focused on business informatics.
 
-<!-- These are GitHub statistics 
-<p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biowilli&show_icons=true&theme=dracula&locale=en" alt="biowilli" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=simwai&show_icons=true&theme=dracula&locale=en&layout=compact" alt="biowilli" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biowilli&label=Profile%20Views&color=a36fe2&style=plastic" alt="biowilli" /> </p>
--->
+**Contact**
+[monz.online](https://www.monz.online/) · philipp@monz.online · Matrix `@monz:fairchat.eu` · [Mastodon](https://fairmove.net/@philippmonz) · [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
+
+![Streak](https://streak-stats.demolab.com?user=biowilli&hide_border=true)
