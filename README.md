@@ -12,6 +12,8 @@ Software developer at [fairkom](https://www.fairkom.eu/) in Berlin. I build and 
 **Stack**
 Java/Spring · TypeScript/React · Dart/Flutter · Kubernetes · Keycloak · Matrix
 
+[![Stack](https://skillicons.dev/icons?i=java,spring,ts,react,dart,flutter,kubernetes,docker)](https://skillicons.dev)
+
 **Side projects**
 - [issue-reporter](https://github.com/biowilli/issue-reporter): capture user feedback with screenshots and send it to GitLab, GitHub or any issue tracker
 - [peertube-plugin-metadata](https://github.com/biowilli/peertube-plugin-metadata): custom metadata fields for PeerTube videos
@@ -24,4 +26,4 @@ BSc Digital Innovation ([FH Vorarlberg](https://www.fhv.at/)), before that a tec
 **Contact**
 [monz.online](https://www.monz.online/) · philipp@monz.online · Matrix `@monz:fairchat.eu` · [Mastodon](https://fairmove.net/@philippmonz) · [LinkedIn](https://at.linkedin.com/in/philipp-monz-8a281a16b)
 
-![Streak](https://streak-stats.demolab.com?user=biowilli&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=biowilli&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
