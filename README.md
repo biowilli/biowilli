@@ -10,9 +10,16 @@ Software developer at [fairkom](https://www.fairkom.eu/) in Berlin. I build and 
 - Operating Keycloak, PeerTube, Rocket.Chat, Element and Matomo in K8s
 
 **Stack**
-Java/Spring · TypeScript/React · Dart/Flutter · Kubernetes · Keycloak · Matrix
+- **Backend:** Java, Spring Boot (JPA, Security, AMQP), Flyway, Node.js/Express, Python
+- **Frontend:** TypeScript, React, Angular, Vue, Vite, Tailwind CSS
+- **Mobile:** Dart/Flutter, Matrix SDK (FluffyChat)
+- **Data & messaging:** PostgreSQL, MariaDB, Redis, RabbitMQ
+- **Infrastructure:** Kubernetes (Kustomize, Argo CD), Docker, Ansible/k3s, GitLab CI, GitHub Actions, Prometheus, Grafana, Loki
+- **Platforms & identity:** Keycloak, SATOSA, midPoint, Matrix Synapse, Nextcloud apps, PeerTube, ERPNext
 
-[![Stack](https://skillicons.dev/icons?i=java,spring,ts,react,dart,flutter,kubernetes,docker)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,spring,nodejs,express,python,ts,js,react,angular,vue,vite,tailwind)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,redis,rabbitmq)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=kubernetes,docker,ansible,gitlab,githubactions,prometheus,grafana,nginx,linux)](https://skillicons.dev)
 
 **Side projects**
 - [issue-reporter](https://github.com/biowilli/issue-reporter): capture user feedback with screenshots and send it to GitLab, GitHub or any issue tracker
