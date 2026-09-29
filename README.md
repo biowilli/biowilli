@@ -5,6 +5,7 @@ Software developer at [fairkom](https://www.fairkom.eu/) in Berlin. I build and 
 **What I work on**
 - [SchulchatRLP](https://schulchat.rlp.de/): Matrix-based school messenger, lots of FluffyChat (Flutter)
 - [Termino](https://www.termino.gv.at/meet/): privacy-friendly scheduling for Austrian public services
+- [DFN-Terminplaner](https://terminplaner.dfn.de/): scheduling and polls for the German research network
 - [DisplayEurope](https://displayeurope.eu/en): European media platform
 - Operating Keycloak, PeerTube, Rocket.Chat, Element and Matomo in K8s
 
