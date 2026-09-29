@@ -14,6 +14,9 @@ Java/Spring · TypeScript/React · Dart/Flutter · Kubernetes · Keycloak · Mat
 
 **Side projects**
 - [issue-reporter](https://github.com/biowilli/issue-reporter): capture user feedback with screenshots and send it to GitLab, GitHub or any issue tracker
+- [peertube-plugin-metadata](https://github.com/biowilli/peertube-plugin-metadata): custom metadata fields for PeerTube videos
+- [embed-peertube-wp](https://github.com/biowilli/embed-peertube-wp): WordPress plugin to embed PeerTube playlists and livestreams
+- [peertube-plugin-fs1](https://github.com/biowilli/peertube-plugin-fs1): branding plugin for the FS1 PeerTube instance
 
 **Background**
 BSc Digital Innovation ([FH Vorarlberg](https://www.fhv.at/)), before that a technical school focused on business informatics.
